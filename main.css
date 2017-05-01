@@ -1,0 +1,11 @@
+div{
+	background-color: azure;
+	border: solid aquamarine 1px;
+	padding: 30px;
+}
+p.lavender {
+	color: lavender;
+}
+p.lavender>a {
+	color: orange;
+}
